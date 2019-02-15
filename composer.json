@@ -1,5 +1,5 @@
 {
-    "name": "hybridauth/hybridauth",
+    "name": "ym-careers/hybridauth",
     "description": "PHP Social Authentication Library",
     "keywords": ["oauth", "openid", "authentication", "authorization", "social", "api", "google", "facebook", "twitter"],
     "homepage": "https://hybridauth.github.io",
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Miled",
-            "email": "hybridauth@gmail.com"
+            "name": "ajay tidake",
+            "email": "ajay.tidake@communitybrands.com"
         }
     ],
     "support": {
